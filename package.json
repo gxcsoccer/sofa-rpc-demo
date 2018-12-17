@@ -21,7 +21,7 @@
     "autod": "autod"
   },
   "dependencies": {
-    "egg-cloud": "^0.0.2",
+    "sofa-node": "^1.0.0",
     "egg-scripts": "^2.10.0"
   },
   "devDependencies": {
